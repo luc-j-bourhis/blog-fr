@@ -5,6 +5,7 @@ abstract: |
     Par la suite, de nombreux résultats similaires furent découverts par d'autres chercheurs, et ils furent tous nommé théorème de Bell, en l'honneur de ce dernier. En particulier, plusieurs inégalités de Bell furent prouvées dans les années 1970 puis testées expérimentalement.
     Dans cet article, je vais présenter en détails une de ces inégalités. Je vais montrer comment elle est la conséquence des hypothèses de réalisme et de localité appliquées à un dispositif expérimental simple. Je montrerais ensuite que les prédictions de la mécanique quantique violent ces inégalités. Cette expérience n'est pas réalisable en pratique mais des variantes furent réalisées. Les résultats donnèrent raison à la mécanique quantique: les inégalités de Bell étaient belle et bien violées. Je donnerais les références des expériences les plus marquantes.
 kind: article
+licence: Creative Commons Attribution-NonCommercial-ShareAlike
 category: physique
 group: théorèmes de Bell
 bibliography:
